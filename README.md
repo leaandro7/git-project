@@ -1,6 +1,6 @@
 # cores:
 ## azul
 ## verde
-## azul escuro
-## laranja
-## verde claro
+## amarelo
+## rosa
+## roxo
