@@ -1,5 +1,3 @@
 # git-project
 
-# cor
-## vermelho
-## preto
+## valor = 10;
